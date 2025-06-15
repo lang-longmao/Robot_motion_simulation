@@ -8,3 +8,6 @@
 
 ## 示例图片：
 ![image](comparison_charts_20250615_155215.png)
+
+## 动态仿真效果：
+![image1](Figure_1.png)
